@@ -1,60 +1,43 @@
 ---
 title: CV
-summary: "Ole Vik's Resume"
-cv_title: Ole Vik
-cv_subtitle: Political Economist
-location: Bergen
-phone: 
-contact_name: OleVik.net/Contact
-contact_link: http://olevik.net/contact
-linkedin_name: LinkedIn/OleHHVik
-linkedin_link: https://no.linkedin.com/in/olehhvik
+summary: "Islam Elgendy's Resume"
+cv_title: Islam Elgendy
+cv_subtitle: Teaching and Research Assistant
+location: Sheffield
+phone: (+44)7958021341
+contact_name: IslamElgendy/Contact
+contact_link: https://www.sheffield.ac.uk/cs/people/academic/islam-elgendy
+linkedin_name: LinkedIn/IslamElgendy
+linkedin_link: https://no.linkedin.com/in/islam-elgendy-484664238
 experience:
-  - years: 2015-
-    name: Research Assistant
-    location: Norwegian School of Economics
-    description: Quantitative work including data management, model estimation, and programming in Python.
-  - years: 2015-
-    name: Substitute Teacher
-    location: Pedagogisk Vikarsentral
-    description: Teaching grades 1 to 10 in Norwegian, maths, English, science, religion and ethics, as well as physical exercise.
-  - years: 2014-2015
-    name: Seminar Instructor
-    location: University of Bergen
-    description: "Prepared structure and topical content of the seminars, and held seminar meetings in both Norwegian and English for students enrolled in the Bachelor’s Course in Comparative Politics. Courses: Political Economy (5 groups), Bachelor Essay in Comparative Politics (7 groups), Perspectives and Methods of the Social Sciences (2 groups)."
-  - years: 2013, 2014, 2015
-    name: Customer Service Representative
-    location: Sixt Norway
-    description: Customer Service, logistics, preparation of rental cars.
+  - years: 2020-
+    name: Teaching and Research Assistant
+    location: University of Sheffield, UK
+    description: Delivered engaging labs and tutorials for undergraduate and graduate students in computer science. Supervised tens of undergraduate and MSc project dissertations, ensuring successful completion with high student satisfaction. Researcher in the Software Testing and Verification group.
+  - years: 2013-2020
+    name: Assistant lecturer
+    location: Assiut University, Egypt
+    description: Taught diverse computer science courses, combining theoretical knowledge with real-world applications. Developed a timetable scheduling system, improving staff coordination and administrative efficiency. Supervised student teams on dissertation projects, fostering collaboration and effective time management.
+  - years: 2007-2013
+    name: Demonstrator
+    location: Assiut University, Egypt
+    description: Teaching computer science modules for undergraduate students.
 education:
-  - years: 2013-2015
-    name: Master’s Degree in Comparative Politics
-    location: University of Bergen
-    description: Includes qualitative and quantitative methods. Thesis written within the field of comparative political economy, titled "A changed welfare-state. Sweden through the 1980s, How the organization of labor unions and politics matter for economic performance", and graded as exceptional.
-  - years: 2010-2013
-    name: Bachelor’s Degree in Political Economy
-    location: University of Bergen
-    description: Includes statistics and maths. Bachelor essay titled "Electoral Implications of the Rational Choice Theory".
-  - years: 2009-2010
-    name: Diploma
-    location: Manger Folkehøgskule
-    description: Music Production
-  - years: 2006-2009
-    name: Diploma
-    location: Breivika Videregående Skole
-    description: Academic specialization with media
-positions:
-  - years: 2013-2015
-    name: Student Council for Comparative Politics
-    location: Board Member
-    description: Former representative for Political Economy, more recently representative for the masters student to the Educational Committee and the Departmental Council at the Department for Comparative Politics.
-  - years: 2012-2013
-    name: Student Council for Political Economy
-    location: Board Member
-    description: Promoted the degree and the student’s interests to the Department of Comparative Politics and the Department of Economics, and also organized meetings and social events with the rest of the board.
-misc: Citizen of Norway, fluent in Norwegian and English speech, read and write both excellently.
-date: 2016-04-02
+  - years: 2009-2013
+    name: Master’s Degree in Computer Science
+    location: Assiut University, Egypt
+    description: I finished my MSc degree in Computers and Information/Computer Science at Assiut University in Egypt.
+  - years: 2004-2007
+    name: Bachelor’s Degree in Computer Science
+    location: Assiut University, Egypt
+    description: I finished my Bachelor's degree in Computers and Information/Computer Science from Assiut University in Egypt with a general grade of “Distinction with Honor,” Accumulative total (4266), a percentage of 88.88% of the Grand Accumulative Total (4800).
+  - years: 2002-2004
+    name: Secondary School
+    location: Assiut
+    description: I received my secondary school certificate with an accumulative total (403.5), a percentage of 98.41% of the Grand Accumulative Total (410).
+misc: Citizen of Egypt, fluent in Arabic and English speech, read and write both excellently.
+date: 2025-03-14
 layout: cv
 ---
 
-> 2015 graduate with a Master’s Degree in Comparative Politics from the University of Bergen. Currently a Research Assistant at the Norwegian School of Economics and Substitute Teacher through PVS.
+> I am currently in the final year of my PhD, where my research focuses on Software Testing, particularly leveraging diversity-based testing principles to address key challenges in the field.
