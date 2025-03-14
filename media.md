@@ -1,10 +1,18 @@
 ---
 title: "Media"
 summary: "About this page."
-date: 2016-04-02
+date: 2025-03-14
 layout: default
 ---
 
-"Media" introductory paragraph.
+## Media  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
+Welcome to my Media page! Here, you can find links to my academic and professional profiles, where I share my research, publications, and professional updates.  
+
+### **Find Me Online**  
+
+- **[University Profile](https://www.sheffield.ac.uk/cs/people/academic/islam-elgendy)** – My official page at the University of Sheffield.  
+- **[ResearchGate](https://www.researchgate.net/profile/Islam-Elgendy-2)** – Explore my research work, publications, and collaborations.  
+- **[LinkedIn](https://no.linkedin.com/in/islam-elgendy-484664238)** – Connect with me professionally and learn more about my teaching and research experience.  
+
+For more details, feel free to explore the rest of my website! 🚀  
