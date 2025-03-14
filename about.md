@@ -24,4 +24,4 @@ I am passionate about advancing **software reliability and quality assurance** t
 Feel free to explore my **research, publications, and teaching contributions** on this website.  
 
 
-![Researcher Portrait](assets/images/ole.jpg "Ole Vik")
+![Researcher Portrait](assets/images/islam.jpg "Islam Elgendy")
