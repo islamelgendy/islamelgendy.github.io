@@ -22,10 +22,10 @@ With **over a decade of teaching experience**, I have taught various **computer 
 ### Explore My Work  
 
 📚 [**Research**](/research.md) – My research interests and ongoing projects.  
-🎓 [**Teaching**](/teaching) – Courses I have taught and academic mentoring.  
-📄 [**CV**](/cv) – My academic and professional background.  
-📜 [**Papers**](/papers) – My published and working papers.  
-🏆 [**Accolades**](/accolades) – Awards and recognitions.  
-📡 [**Media**](/media) – Contact details and external profiles. 
+🎓 [**Teaching**](/teaching.md) – Courses I have taught and academic mentoring.  
+📄 [**CV**](/cv.md) – My academic and professional background.  
+📜 [**Papers**](/papers.md) – My published and working papers.  
+🏆 [**Accolades**](/accolades.md) – Awards and recognitions.  
+📡 [**Media**](/media.md) – Contact details and external profiles. 
 
 Feel free to **reach out** if you're interested in **collaborations** or have any questions! 🚀  
