@@ -10,9 +10,9 @@ layout: default
 
 # Welcome  
 
-Hi, I'm **Islam Elgendy**, a **Teaching and Research Assistant** at the **University of Sheffield, Computer Science Department**.  
+Hi, I'm **Islam Elgendy**, a **Teaching and Research Assistant** at the **University of Sheffield, School of Computer Science**.  
 
-I specialize in **Software Testing and Verification**, with a strong focus on:  
+I specialize in **Software Testing**, with a strong focus on:  
 
 - ✅ **Diversity-Based Testing Techniques**  
 - ✅ **Mutation Testing**  
@@ -20,7 +20,7 @@ I specialize in **Software Testing and Verification**, with a strong focus on:
 - ✅ **Search-Based Software Testing**  
 - ✅ **Test Case Prioritization and Selection**    
 
-With **over a decade of teaching experience**, I have taught various **computer science** courses at **Assiut University** and the **University of Sheffield**.  
+With **over a decade of teaching experience**, I have taught various **computer science** courses at the **University of Sheffield, UK** and **Assiut University, Egypt**.  
 
 ### Explore My Work  
 
