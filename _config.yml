@@ -28,8 +28,6 @@ menu:
       url: "#experience"
     - title: Education
       url: "#education"
-    - title: Positions
-      url: "#positions"
     - title: Miscellaneous
       url: "#miscellaneous"
  - page: Teaching
@@ -39,7 +37,7 @@ menu:
  - page: Accolades
    url: /accolades
 menu_external:
- - title: islamelgendy.me
+ - title: University Profile
    url: "https://www.sheffield.ac.uk/cs/people/academic/islam-elgendy"
  - title: Research Gate
    url: "https://www.researchgate.net/profile/Islam-Elgendy-2"
