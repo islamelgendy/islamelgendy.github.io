@@ -24,11 +24,11 @@ With **over a decade of teaching experience**, I have taught various **computer 
 
 ### Explore My Work  
 
-📚 [**Research**](/research.md) – My research interests and ongoing projects.  
-🎓 [**Teaching**](/teaching.md) – Courses I have taught and academic mentoring.  
-📄 [**CV**](/cv.md) – My academic and professional background.  
-📜 [**Papers**](/papers.md) – My published and working papers.  
-🏆 [**Accolades**](/accolades.md) – Awards and recognitions.  
-📡 [**Media**](/media.md) – Contact details and external profiles. 
+📚 [**Research**](https://islamelgendy.github.io/research)  
+🎓 [**Teaching**](https://islamelgendy.github.io/teaching)  
+📄 [**CV**](https://islamelgendy.github.io/cv)  
+📜 [**Papers**](https://islamelgendy.github.io/papers)  
+🏆 [**Accolades**](https://islamelgendy.github.io/accolades)  
+📡 [**Media**](https://islamelgendy.github.io/media)  
 
 Feel free to **reach out** if you're interested in **collaborations** or have any questions! 🚀  
