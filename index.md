@@ -21,7 +21,7 @@ With **over a decade of teaching experience**, I have taught various **computer 
 
 ### Explore My Work  
 
-📚 [**Research**](/research) – My research interests and ongoing projects.  
+📚 [**Research**](/research.md) – My research interests and ongoing projects.  
 🎓 [**Teaching**](/teaching) – Courses I have taught and academic mentoring.  
 📄 [**CV**](/cv) – My academic and professional background.  
 📜 [**Papers**](/papers) – My published and working papers.  
