@@ -21,11 +21,11 @@ With **over a decade of teaching experience**, I have taught various **computer 
 
 ### Explore My Work  
 
-📚 **[Research](research)** – My research interests and ongoing projects.  
-🎓 **[Teaching](teaching)** – Courses I have taught and academic mentoring.  
-📄 **[CV](cv)** – My academic and professional background.  
-📜 **[Papers](papers)** – My published and working papers.  
-🏆 **[Accolades](accolades)** – Awards and recognitions.  
-📡 **[Media](media)** – Contact details and external profiles.  
+📚 [**Research**]({{ site.baseurl }}/research) – My research interests and ongoing projects.  
+🎓 [**Teaching**]({{ site.baseurl }}/teaching) – Courses I have taught and academic mentoring.  
+📄 [**CV**]({{ site.baseurl }}/cv) – My academic and professional background.  
+📜 [**Papers**]({{ site.baseurl }}/papers) – My published and working papers.  
+🏆 [**Accolades**]({{ site.baseurl }}/accolades) – Awards and recognitions.  
+📡 [**Media**]({{ site.baseurl }}/media) – Contact details and external profiles. 
 
 Feel free to **reach out** if you're interested in **collaborations** or have any questions! 🚀  
