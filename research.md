@@ -1,20 +1,28 @@
 ---
 title: "Research"
-summary: "About this page."
-date: 2016-04-13
+summary: "My research interests and projects."
+date: 2025-03-14
 layout: default
 ---
 
-"Research" introductory paragraph.
+## Research Interests  
 
-## Project One
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
+My research focuses on **Software Engineering**, particularly **Software Testing and Verification**. My key areas of interest include:  
 
-## Project Two
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
+- **Diversity-Based Testing Techniques** 
+- **Search-Based Software Testing**  
+- **Mutation Testing**  
+- **Automated Test Data Generation**  
+- **Test Case Prioritization and Selection**  
+- **Test Suite Reduction**   
 
-## Project Three
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
+I am currently working on projects that apply diversity-based principles to improve **software testing efficiency and effectiveness**.  
 
-## Project Four
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
+## Ongoing Research  
+
+I am actively investigating:  
+
+- **Targeting Stubborn Mutants:** Exploring test selection strategies for detecting hard-to-kill mutants in mutation testing.  
+- **Diversity in Test Case Prioritization:** Applying **bytecode diversity** to optimize test execution order.  
+
+If you are interested in **collaborations** or have inquiries, feel free to reach out! 🚀  
