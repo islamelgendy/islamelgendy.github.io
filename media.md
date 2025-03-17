@@ -1,6 +1,6 @@
 ---
 title: "Media"
-summary: "About this page."
+summary: "Links to my professional profiles, research networks, and academic presence online."
 date: 2025-03-14
 layout: default
 ---
