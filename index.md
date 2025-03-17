@@ -14,11 +14,11 @@ Hi, I'm **Islam Elgendy**, a **Teaching and Research Assistant** at the **Univer
 
 I specialize in **Software Testing and Verification**, with a strong focus on:  
 
-✅ **Diversity-Based Testing Techniques** 
-✅ **Mutation Testing**  
-✅ **Automated Test Data Generation**  
-✅ **Search-Based Software Testing**  
-✅ **Test Case Prioritization and Selection**   
+- ✅ **Diversity-Based Testing Techniques**  
+- ✅ **Mutation Testing**  
+- ✅ **Automated Test Data Generation**  
+- ✅ **Search-Based Software Testing**  
+- ✅ **Test Case Prioritization and Selection**    
 
 With **over a decade of teaching experience**, I have taught various **computer science** courses at **Assiut University** and the **University of Sheffield**.  
 
