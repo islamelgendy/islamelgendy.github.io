@@ -24,5 +24,4 @@ I am passionate about advancing **software reliability and quality assurance** t
 Feel free to explore my **research, publications, and teaching contributions** on this website.  
 
 
-![Researcher Portrait](<img src="assets/images/islam.jpg" alt="My Profile Picture" style="max-width: 200px; height: auto; border-radius: 10px;"> "Islam Elgendy")
-
+<img src="assets/images/islam.jpg" alt="My Profile Picture" style="max-width: 200px; height: auto; border-radius: 10px;">
