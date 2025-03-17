@@ -35,6 +35,4 @@ Below is a selection of my published research papers:
 
 My survey paper on diversity-based testing techniques is available on **[ResearchGate](https://www.researchgate.net/publication/388141039_A_Systematic_Mapping_Study_of_the_Metrics_Uses_and_Subjects_of_Diversity-Based_Testing_Techniques)**.  
 
-<iframe style="margin: 10px 0 40px 0;" class="pdf-iframe" src="https://drive.google.com/file/d/0B-xXQEsWEjrUUmpBdkhIVS10YjA/preview" width="100%" height="768"></iframe>  
-
 For more details, feel free to explore my **LinkedIn**, **ResearchGate** and **University Profile**. 🚀  
