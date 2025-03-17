@@ -5,7 +5,7 @@ date: 2025-03-14
 layout: default
 ---
 <div style="text-align: right;">
-    <img src="assets/images/islam.jpg" alt="Profile Picture" style="max-width: 150px; height: auto; border-radius: 50%;">
+    <img src="assets/images/islam.jpg" alt="Profile Picture" style="max-width: 450px; height: auto; border-radius: 50%;">
 </div>
 
 # Welcome  
