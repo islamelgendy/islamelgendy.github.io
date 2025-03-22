@@ -5,14 +5,15 @@ date: 2025-03-14
 layout: default
 ---
 
-## Media  
+## Media
 
-Welcome to my Media page! Here, you can find links to my academic and professional profiles, where I share my research, publications, and professional updates.  
+Welcome to my Media page! Here, you can find links to my academic and professional profiles, where I share my research, publications, and professional updates.
 
-### **Find Me Online**  
+### **Find Me Online**
 
-- **[University Profile](https://www.sheffield.ac.uk/cs/people/academic/islam-elgendy)** – My official page at the University of Sheffield.  
-- **[ResearchGate](https://www.researchgate.net/profile/Islam-Elgendy-2)** – Explore my research work, publications, and collaborations.  
-- **[LinkedIn](https://no.linkedin.com/in/islam-elgendy-484664238)** – Connect with me professionally and learn more about my teaching and research experience.  
+- **[University Profile](https://www.sheffield.ac.uk/cs/people/academic/islam-elgendy)** – My official page at the University of Sheffield.
+- **[Google Scholar](https://scholar.google.co.uk/citations?user=0TgqOAUAAAAJ&hl=en&oi=sra)** – My Google Scholar publications page.
+- **[ResearchGate](https://www.researchgate.net/profile/Islam-Elgendy-2)** – Explore my research work, publications, and collaborations.
+- **[LinkedIn](https://no.linkedin.com/in/islam-elgendy-484664238)** – Connect with me professionally and learn more about my teaching and research experience.
 
-For more details, feel free to explore the rest of my website! 🚀  
+For more details, feel free to explore the rest of my website! 🚀
