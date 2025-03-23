@@ -33,9 +33,9 @@ education:
     description: I finished my Bachelor's degree in Computers and Information/Computer Science from Assiut University in Egypt with a general grade of “Distinction with Honor,” Accumulative total (4266), a percentage of 88.88% of the Grand Accumulative Total (4800).
   - years: 2002-2004
     name: Secondary School
-    location: Assiut
+    location: Assiut, Egypt
     description: I received my secondary school certificate with an accumulative total (403.5), a percentage of 98.41% of the Grand Accumulative Total (410).
-misc: Citizen of Egypt, fluent in Arabic and English speech, read and write both excellently.
+misc: An Egyptian citizen, fluent in Arabic and English, with excellent proficiency in reading and writing both languages.
 date: 2025-03-14
 layout: cv
 ---
