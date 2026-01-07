@@ -10,7 +10,7 @@ layout: default
 
 # Welcome  
 
-Hi, I'm **Islam Elgendy**, a **Teaching and Research Assistant** at the **University of Sheffield, School of Computer Science**.  
+Hi, I'm **Islam Elgendy**, a **University Teacher** at the **University of Sheffield, School of Computer Science**.  
 
 I specialize in **Software Testing**, with a strong focus on:  
 

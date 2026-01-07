@@ -21,6 +21,8 @@ More details will be shared as the research progresses.
 
 Below is a selection of my published research papers:  
 
+- **Elgendy Islam T., Robert M. Hierons, and Phil McMinn.** "Empirically Evaluating the Use of Bytecode for Diversity-Based Test Case Prioritisation." *Proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering (EASE 2025)* pp: 216--226, 2025.  
+
 - **Elgendy Islam T., Robert M. Hierons, and Phil McMinn.** "A Systematic Mapping Study of the Metrics, Uses and Subjects of Diversity‐Based Testing Techniques." *Software Testing, Verification and Reliability* *35.2*: e1914, 2025.  
 
 - **Elgendy Islam, Robert Hierons, and Phil McMinn.** "Evaluating String Distance Metrics for Reducing Automatically Generated Test Suites." *Proceedings of the 5th ACM/IEEE International Conference on Automation of Software Test (AST 2024)*, 2024.  

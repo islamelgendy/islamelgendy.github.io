@@ -10,7 +10,11 @@ contact_link: https://www.sheffield.ac.uk/cs/people/academic/islam-elgendy
 linkedin_name: LinkedIn/IslamElgendy
 linkedin_link: https://no.linkedin.com/in/islam-elgendy-484664238
 experience:
-  - years: 2020-
+  - years: 2026-
+    name: University Teacher
+    location: University of Sheffield, UK
+    description: Module leaders for undergraduate and postgraduate in computer science. Supervising dissertation projects, ensuring successful completion with high student satisfaction. Researcher in the Software Testing and Verification group.
+  - years: 2020-2025
     name: Teaching and Research Assistant
     location: University of Sheffield, UK
     description: Delivered engaging labs and tutorials for undergraduate and graduate students in computer science. Supervised tens of undergraduate and MSc project dissertations, ensuring successful completion with high student satisfaction. Researcher in the Software Testing and Verification group.

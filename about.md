@@ -7,7 +7,7 @@ layout: default
 
 ## About Me  
 
-Hello! I’m **Islam Elgendy**, a **Teaching and Research Assistant** at the **University of Sheffield, Department of Computer Science**. I am currently in the final year of my **PhD**, where my research focuses on **Software Testing**, particularly leveraging **diversity-based testing principles** to address key challenges in the field.  
+Hello! I’m **Islam Elgendy**, a **University Teacher** at the **University of Sheffield, Department of Computer Science**. I finished my **PhD**, where my research focused on **Software Testing**, particularly leveraging **diversity-based testing principles** to address key challenges in the field.  
 
 My work spans various aspects of **automated software testing**, including:  
 
