@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 summary: "Courses I have taught."
-date: 2025-03-14
+date: 2025-06-30
 layout: default
 ---
 

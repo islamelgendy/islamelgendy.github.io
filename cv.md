@@ -2,18 +2,18 @@
 title: CV
 summary: "Islam Elgendy's Resume"
 cv_title: Islam Elgendy
-cv_subtitle: Teaching and Research Assistant
+cv_subtitle: University Teacher
 location: Sheffield
 phone: (+44)7958021341
-contact_name: IslamElgendy/Contact
+contact_name: University Profile
 contact_link: https://www.sheffield.ac.uk/cs/people/academic/islam-elgendy
-linkedin_name: LinkedIn/IslamElgendy
+linkedin_name: Islam Elgendy
 linkedin_link: https://no.linkedin.com/in/islam-elgendy-484664238
 experience:
   - years: 2026-
     name: University Teacher
     location: University of Sheffield, UK
-    description: Module leaders for undergraduate and postgraduate in computer science. Supervising dissertation projects, ensuring successful completion with high student satisfaction. Researcher in the Software Testing and Verification group.
+    description: Module leader for undergraduate and postgraduate in computer science. Supervising dissertation projects, ensuring successful completion with high student satisfaction. Researcher in the Software Testing and Verification group.
   - years: 2020-2025
     name: Teaching and Research Assistant
     location: University of Sheffield, UK
@@ -27,6 +27,10 @@ experience:
     location: Assiut University, Egypt
     description: Teaching computer science modules for undergraduate students.
 education:
+  - years: 2020-2025
+    name: PhD in Computer Science
+    location: University of Sheffield, UK
+    description: Completed a PhD in Computer Science at the University of Sheffield, UK.
   - years: 2009-2013
     name: Master’s Degree in Computer Science
     location: Assiut University, Egypt
@@ -39,9 +43,9 @@ education:
     name: Secondary School
     location: Assiut, Egypt
     description: I received my secondary school certificate with an accumulative total (403.5), a percentage of 98.41% of the Grand Accumulative Total (410).
-misc: An Egyptian citizen, fluent in Arabic and English, with excellent proficiency in reading and writing both languages.
-date: 2025-03-14
+misc: British-Egyptian, fluent in English and Arabic, with excellent written and spoken proficiency in both languages.
+date: 2026-06-30
 layout: cv
 ---
 
-> I am currently in the final year of my PhD, where my research focuses on Software Testing, particularly leveraging diversity-based testing principles to address key challenges in the field.
+> I am a University Teacher and researcher in Computer Science at the University of Sheffield. My research focuses on Software Testing and Verification, particularly leveraging diversity-based testing principles and large language models to address key challenges in software quality assurance.
