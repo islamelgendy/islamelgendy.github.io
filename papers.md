@@ -1,7 +1,7 @@
 ---
 title: "Papers"
 summary: "A collection of my research papers."
-date: 2025-03-14
+date: 2026-06-30
 layout: default
 ---
 
@@ -13,13 +13,16 @@ Welcome to my research papers page. Here, you will find a collection of my publi
 
 I am currently working on the following research:
 
-- **Targeting Stubborn Mutants: A Study of Test Selection Strategies Killing Stubborn Mutants**
+- **Generating Diverse Test Cases Using Large Language Models: An Empirical Study**
+- **Large Language Models as Guides for Diversity-Based Test Prioritisation: An Empirical Evaluation**
 
 More details will be shared as the research progresses.
 
 ## **Published Papers**
 
 Below is a selection of my published research papers:
+
+- **Elgendy Islam T., Robert M. Hierons, and Phil McMinn.** "How Effective are Coverage-and Diversity-Based Test Selection at Killing Stubborn Mutants?" *Proceedings of the 19th International Conference on Software Testing, Verification and Validation (ICST 2026)* pp: , 2026. 
 
 - **Elgendy Islam T., Robert M. Hierons, and Phil McMinn.** "Empirically Evaluating the Use of Bytecode for Diversity-Based Test Case Prioritisation." *Proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering (EASE 2025)* pp: 216--226, 2025.  
 
