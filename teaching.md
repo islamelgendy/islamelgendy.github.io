@@ -13,8 +13,8 @@ I have over a **decade of experience** teaching **Computer Science** courses, wi
 
 I am currently involved in teaching on the University of Sheffield’s Master’s Conversion Programme, supporting students from diverse academic backgrounds in developing core software engineering knowledge and practical development skills.
 
-    - **COM412:** Introduction to Software Engineering  
-    - **COM416:** Team Development Project  
+- **COM412:** Introduction to Software Engineering  
+- **COM416:** Team Development Project  
 
 These modules involve delivering both theoretical and practical content in software engineering, supporting collaborative team-based development, and supervising software projects.
 
